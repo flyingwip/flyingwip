@@ -7,7 +7,7 @@ I am a Dutch 🇳🇱 freelance Web Developer & content creator. I help business
 Back-end and Dev-Ops is where I am the most comfortable and what I enjoy the most! I love to set-up CI/CD pipelines, configure cloud services and servers and I have a big interest in TDD (Test Driven Development).
 
 #### Skills
-- Front-end: Vanilla JS, HTML/SCSS
+- Front-end: React, Vanilla JS, HTML/SCSS
 - Back-end: Python, Django, PostgreSQL, Redis
 - CMS: WordPress
 - Cloud: AWS, Digital Ocean
