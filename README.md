@@ -12,7 +12,7 @@ Back-end and Dev-Ops is where I am the most comfortable and what I enjoy the mos
 - CMS: WordPress
 - Cloud: AWS, Digital Ocean
 - Dev-Ops: Docker, Git, Github Actions, Sentry,
-- Other: Bash, Linux, Nginx
+- Other: Bash, Linux, Nginx, SSH
 
 
 <!--
